@@ -1,5 +1,4 @@
 
-
 const score = document.querySelector(".score");
 const score1 = document.querySelector(".score1");
 const startScreen = document.querySelector(".startScreen");
